@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Desktop.iml" filepath="$PROJECT_DIR$/Desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2040SLABs/LAB0/LAB0.iml" filepath="$PROJECT_DIR$/2040SLABs/LAB0/LAB0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2040SLABs/LAB1/LAB1.iml" filepath="$PROJECT_DIR$/2040SLABs/LAB1/LAB1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2040SLABs/LAB2/LAB2.iml" filepath="$PROJECT_DIR$/2040SLABs/LAB2/LAB2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2040SLABs/LAB3/LAB3.iml" filepath="$PROJECT_DIR$/2040SLABs/LAB3/LAB3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2040SLABs/LAB4/LAB4.iml" filepath="$PROJECT_DIR$/2040SLABs/LAB4/LAB4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2040SLABs/LAB5/LAB5.iml" filepath="$PROJECT_DIR$/2040SLABs/LAB5/LAB5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2040SLABs/LAB6/LAB6.iml" filepath="$PROJECT_DIR$/2040SLABs/LAB6/LAB6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2040SLABs/LAB7/LAB7.iml" filepath="$PROJECT_DIR$/2040SLABs/LAB7/LAB7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2040SLABs/THA1 QA/THA1 QA.iml" filepath="$PROJECT_DIR$/2040SLABs/THA1 QA/THA1 QA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2040SLABs/THA1 QB/THA1 QB.iml" filepath="$PROJECT_DIR$/2040SLABs/THA1 QB/THA1 QB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2040SLABs/THA2/THA2.iml" filepath="$PROJECT_DIR$/2040SLABs/THA2/THA2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2040SLABs/THA3 QA/THA3 QA.iml" filepath="$PROJECT_DIR$/2040SLABs/THA3 QA/THA3 QA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cs2030s/cs2030s.iml" filepath="$PROJECT_DIR$/cs2030s/cs2030s.iml" />
+    </modules>
+  </component>
+</project>
